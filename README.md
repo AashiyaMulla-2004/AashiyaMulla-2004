@@ -75,7 +75,7 @@ Passionate Computer Science Engineering graduate with a strong interest in build
 
 ---
 
-## ✨ Quote
+## ✨ Thanks for visiting my GitHub Profile
 
 > **"Code. Learn. Build. Repeat. 🚀"**
 
