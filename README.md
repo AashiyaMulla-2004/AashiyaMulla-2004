@@ -66,7 +66,7 @@ Passionate Computer Science Engineering graduate with a strong interest in build
   <a href="https://www.linkedin.com/in/aashiya-mulla-dev2026" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
   </a> 
-  
+  <br></br>
   &nbsp;&nbsp;&nbsp;   
   <a href="https://github.com/AashiyaMulla-2004" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
