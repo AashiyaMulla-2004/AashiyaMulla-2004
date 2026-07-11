@@ -69,10 +69,8 @@ Passionate Computer Science Engineering graduate with a strong interest in build
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aashiya_Mulla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashiya-mulla-dev2026)
-
-[![GitHub](https://img.shields.io/badge/GitHub-AashiyaMulla--2004-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AashiyaMulla-2004)
-
+💼 LinkedIn: https://www.linkedin.com/in/aashiya-mulla-dev2026
+💻 GitHub: https://github.com/AashiyaMulla-2004
 ---
 
 ## ✨ Thanks for visiting my GitHub Profile
