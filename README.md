@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aashiya Mulla
 
-## 💻 MERN Stack Developer | Full Stack Developer
+## 💻 MERN Stack Developer | Java Full Stack Developer
 
 Passionate Computer Science Engineering graduate with a strong interest in building responsive, scalable, and user-friendly web applications. I enjoy learning new technologies, solving real-world problems, and continuously improving my development skills.
 
